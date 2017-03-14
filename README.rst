@@ -4,8 +4,8 @@ existing neural network libraries, most notably `Lasagne
 utility modules.  All code is written to be compatible with
 `scikit-learn <http://scikit-learn.org/>`_.
 
-.. image:: https://travis-ci.org/dnouri/nolearn.svg?branch=master
-    :target: https://travis-ci.org/dnouri/nolearn
+.. image:: https://travis-ci.org/mithrial/nolearn.svg?branch=master
+    :target: https://travis-ci.org/mithrial/nolearn
 
 Installation
 ============
