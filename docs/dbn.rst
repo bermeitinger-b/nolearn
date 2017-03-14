@@ -27,7 +27,7 @@ test set:
 
 .. code-block:: python
 
-  from sklearn.cross_validation import train_test_split
+  from sklearn.model_selection import train_test_split
   from sklearn.datasets import fetch_mldata
 
   mnist = fetch_mldata('MNIST original')
@@ -84,7 +84,7 @@ let us still see if our neural network is up to the task:
 
 .. code-block:: python
 
-  from sklearn.cross_validation import cross_val_score
+  from sklearn.model_selection import cross_val_score
   from sklearn.datasets import load_iris
   from sklearn.preprocessing import scale
 
